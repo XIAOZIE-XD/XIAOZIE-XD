@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm XIAOZIE</h1>
-<h3 align="center">Brute force Facebook developer from Indonesia</h3>
+<h3 align="center">Remaja 17 Tahun Dari Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xiaoziexploite&label=Profile%20views&color=0e75b6&style=flat" alt="xiaoziexploite" /> </p>
 
-- 🔭 I’m currently working on **Facebook Brute Force V1**
+- 🔭 I’m currently working on **Facebook Brute Force Premium**
 
 - 🌱 I’m currently learning **Frameworks,Python,Javascript,Html**
 
